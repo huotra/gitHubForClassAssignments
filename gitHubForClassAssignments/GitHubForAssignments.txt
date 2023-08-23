@@ -1,2 +1,2 @@
-I think I will be using VS Code to commit assignments into my Github repository online as well as uploading my assignments. It mostly depends on if I'm using my personal laptop or my work computer. 
+I think I will be using VS Code to commit assignments into my Github repository online as well as upload my assignments directly through Github. It mostly depends on if I'm using my personal laptop or my work computer. 
 VS Code for my personal laptop and uploading for my work computer.
